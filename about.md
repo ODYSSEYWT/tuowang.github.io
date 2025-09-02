@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/prof_pic.jpeg">
+<img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
 I am a Ph.D. student in the Department of Computer Science at Virginia Tech, advised by Prof. Dawei Zhou in <a href="https://sites.google.com/view/dawei-zhou/vlog-lab?authuser=0" target="blank">VLOG</a> Lab. My research interest lies in data mining and machine learning, especially in trustworthy machine learning and large language models.
